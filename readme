@@ -1,0 +1,6 @@
+Fractional Knapsack Problem
+
+Given weights and value of n items, choose the item and corresponding amount
+to add to the knapsack of capacity W. The objective is to maximise the value
+of the items in the knapsack.
+ 
